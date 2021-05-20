@@ -1,0 +1,21 @@
+{
+  "url": "https://www.yelp.com/biz/cvi-che-105-miami",
+  "title": "CVI.CHE 105",
+  "categories": [
+    "Peruvian",
+    "Seafood"
+  ],
+  "address": {
+    "country": "US",
+    "state": "FL",
+    "zip": "33132",
+    "city": "Miami, FL"
+  },
+  "contact": {
+    "phone": "(305) 577-3454",
+    "website": {
+      "domain": "ceviche105.com",
+      "url": "http://ceviche105.com"
+    }
+  }
+}

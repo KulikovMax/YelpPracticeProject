@@ -1,0 +1,18 @@
+{
+  "url": "https://www.yelp.com/biz/gypsy-kitchen-washington",
+  "title": "Gypsy Kitchen",
+  "categories": [],
+  "address": {
+    "country": "US",
+    "state": "DC",
+    "zip": "20009",
+    "city": "Washington, DC"
+  },
+  "contact": {
+    "phone": "(202) 894-6015",
+    "website": {
+      "domain": "gypsykitchendc.com",
+      "url": "http://gypsykitchendc.com"
+    }
+  }
+}

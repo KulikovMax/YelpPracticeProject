@@ -1,0 +1,18 @@
+{
+  "url": "https://www.yelp.com/biz/pupatella-washington",
+  "title": "Pupatella",
+  "categories": [],
+  "address": {
+    "country": "US",
+    "state": "DC",
+    "zip": "20009",
+    "city": "Washington, DC"
+  },
+  "contact": {
+    "phone": "(202) 506-1999",
+    "website": {
+      "domain": "pupatella.com",
+      "url": "http://pupatella.com"
+    }
+  }
+}
